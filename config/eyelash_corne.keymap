@@ -113,9 +113,9 @@
 
         sc_layer {
             bindings = <
-&trans  &trans  &trans          &trans                &trans  &kp LC(LA(NUMBER_2))                    &trans          &trans  &trans                &trans  &trans             &kp LA(LC(NUMBER_6))  &trans
-&trans  &trans  &kp LC(LA(N5))  &trans                &trans  &trans                          &trans  &trans  &trans  &trans  &trans                &trans  &kp LA(LC(SPACE))  &trans                &trans
-&trans  &trans  &trans          &kp LA(LC(NUMBER_1))  &trans  &kp LA(LC(NUMBER_4))  &trans            &trans          &trans  &kp LA(LC(NUMBER_3))  &trans  &trans             &trans                &trans
+&trans  &trans  &trans          &trans                &trans  &kp LC(LA(NUMBER_2))                    &trans          &trans  &trans                &kp LA(LC(NUMBER_7))  &trans             &kp LA(LC(NUMBER_6))  &trans
+&trans  &trans  &kp LC(LA(N5))  &trans                &trans  &trans                          &trans  &trans  &trans  &trans  &trans                &trans                &kp LA(LC(SPACE))  &trans                &trans
+&trans  &trans  &trans          &kp LA(LC(NUMBER_1))  &trans  &kp LA(LC(NUMBER_4))  &trans            &trans          &trans  &kp LA(LC(NUMBER_3))  &trans                &trans             &trans                &trans
                                 &trans                &trans  &trans                                                  &trans  &trans                &trans
             >;
         };
